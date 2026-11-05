@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "notes": "最初の配布",
+  "pub_date": "2026-11-05T16:33:50Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdE1jbkR2L0R6QitOWXI5STFNd3lPN2tuSnRMTWdXZHRVTllrNklLb1RUMS9ISzN5aVdmalowOTNMUHpPR0s0Ykt3clp6V1loM0hwM0pCQTNmZEJ0REt2S29DQ09HYndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk2MzY0CWZpbGU6Um9vdGxvcmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMC4xCmZaakFSRW5IT0ZYY1gwR055ckJVUEd0NEpNVzZWWFZVbW5jUldha09nSUg0NTlQT2RHRlkzM1p2WDZkZVFIZXVCZytrbVp5V2RqckY3bkdJZ1YvR0R3PT0K",
+      "url": "https://github.com/tanakaisworking/rootlore-releases/releases/download/v0.0.1/Rootlore.app.tar.gz"
+    }
+  }
+}
