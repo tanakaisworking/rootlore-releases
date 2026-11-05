@@ -1,11 +1,11 @@
 {
-  "version": "0.0.1",
-  "notes": "最初の配布",
-  "pub_date": "2026-11-05T16:33:50Z",
+  "version": "0.0.2",
+  "notes": "自動更新の確認用",
+  "pub_date": "2026-11-05T16:37:19Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdE1jbkR2L0R6QitOWXI5STFNd3lPN2tuSnRMTWdXZHRVTllrNklLb1RUMS9ISzN5aVdmalowOTNMUHpPR0s0Ykt3clp6V1loM0hwM0pCQTNmZEJ0REt2S29DQ09HYndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk2MzY0CWZpbGU6Um9vdGxvcmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMC4xCmZaakFSRW5IT0ZYY1gwR055ckJVUEd0NEpNVzZWWFZVbW5jUldha09nSUg0NTlQT2RHRlkzM1p2WDZkZVFIZXVCZytrbVp5V2RqckY3bkdJZ1YvR0R3PT0K",
-      "url": "https://github.com/tanakaisworking/rootlore-releases/releases/download/v0.0.1/Rootlore.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdE1jbkR2L0R6QjIydW1LaWk4UUNvc1g3dVl1clJsRU44eDIvR2k2MW4zcThSSGllNC80ZldvVFo5Y3ZvdVM3U1pEczFLRjN1YmZVRlRzY1VNRDFwYzlyNVZTUVhXQ0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk2NTk0CWZpbGU6Um9vdGxvcmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMC4yCldsM095QTdPbTJxZ2JUeDluaVlvenJTS1NycC9MSHVWbDNwZTJWQUJTbzF0QU1tM0RWVHZZS0NDbkhyYTVZQjVLamplb080alVLcjJQSURGc1BLSkFnPT0K",
+      "url": "https://github.com/tanakaisworking/rootlore-releases/releases/download/v0.0.2/Rootlore.app.tar.gz"
     }
   }
 }
