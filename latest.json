@@ -1,11 +1,11 @@
 {
-  "version": "0.0.3",
-  "notes": "署名と公証をした版",
-  "pub_date": "2026-11-05T17:39:13Z",
+  "version": "0.0.6",
+  "notes": "画面を同梱して動くようにした版。GitHubに繋ぐ前でも画面が見える。未接続のときの案内を整えた",
+  "pub_date": "2026-11-09T07:53:59Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdE1jbkR2L0R6QjZ2T0tWZWRBbE5SVGRHRmsvMkw0TjVxRG00enlJdzRBdTIwMHVWRkVPUTFMTnBlb25GanovYWxSZGZRdnBub3VoVEkzOWp2aDRHdXNsT3l4ZzhrWHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAwNjcyCWZpbGU6Um9vdGxvcmUuYXBwLnRhci5negpHRnlKdGhyQWFXdFVmZUNTNTYyQ3FxSmRUT1B5MlZEclNkSUVQWENkVFdqZ1pHS3NaTU1KS3dKYm16YlJxWTMxc3l0TUxzMzJjdU1ZMC92VS92TjBEUT09Cg==",
-      "url": "https://github.com/tanakaisworking/rootlore-releases/releases/download/v0.0.3/Rootlore.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdE1jbkR2L0R6QjFRQndBTXJYUDJuUExiZWc0S0tlc1gxeUhKcllEUSt1U09pSExHSG1NU3kwK0Q1OXVVR3RHUFpuU0tQWnBjVFVVaXBkbVoxRnFvRHA2eGh0cFh0WXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjEwODA5CWZpbGU6Um9vdGxvcmUuYXBwLnRhci5negpZRnN1MGpuMUVlZ1lTMlhCNy95VEs2YUMveCtNK25Mb3pvMFZaODNNR21SdmdJaFpIQ0IrWmJJRUlITmhNTmV6emxYRTg5aHp1MHRwSmRDbGNVakdCZz09Cg==",
+      "url": "https://github.com/tanakaisworking/rootlore-releases/releases/download/v0.0.6/Rootlore.app.tar.gz"
     }
   }
 }
