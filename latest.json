@@ -1,11 +1,11 @@
 {
-  "version": "0.0.7",
-  "notes": "起動すると画面が真っ白になることがあった問題を直しました（更新後の最初の起動で、前の版の画面のキャッシュを捨てて読み直します）。.base ファイルを表で開けるようになりました。英語の画面を整えました。",
-  "pub_date": "2026-11-10T17:57:52Z",
+  "version": "0.0.8",
+  "notes": "rootlore コマンドをアプリに入れました。アプリを起動すると ~/.local/bin/rootlore から使えるようになり（そこにほかの rootlore がないとき）、アプリの更新で一緒に新しくなります。ノートを開いたときの読むだけの表示で、先頭の見出しの ## とフロントマターの --- を出さないようにしました。",
+  "pub_date": "2026-11-16T17:43:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdE1jbkR2L0R6QnhaTWFjRTQwRTFaalJrTlNTN1pGOU5rMEQza1FOWkpjbGU4a0Nvemk5ZzhCWmlicEllRHFYejh3eUozdzdpWjJwWC9EcjlmRzZnQkxKNVRUbjdET3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzMzMzY1CWZpbGU6Um9vdGxvcmUuYXBwLnRhci5negpGTlFIQ2VYNnBxelFQT05tWkNLaS9tOUxVWVNvRWRDcm10czlFbTd0ajIwa2NpdURSY1pwS0xqU1kwc0J0eldjSEhkRndVeVhKeGxuVVR0T09LWjRBZz09Cg==",
-      "url": "https://github.com/tanakaisworking/rootlore-releases/releases/download/v0.0.7/Rootlore.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdE1jbkR2L0R6Qi9iMWRPTzBlV2xBVVgyMHBza2dFem00Y2plZktVVlljK1NZOFlWRC9zTkJOa3JuUVR3WnoxTGF6V1dFb0FHRHAxdVk1R2RhL0lYeTFLUW1IbFd1akFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODUwOTI0CWZpbGU6Um9vdGxvcmUuYXBwLnRhci5negpWWTRRTGpTNnZHOStnZkg0dmF0SGhiSXF2MWV6Qkl0U1ZUdHlrelBBUi81YjNWeCs3Tk1uamhEcktKeE9ZUkZQL1N5MTZ4c24vaWpTSkx6emtsbTFEZz09Cg==",
+      "url": "https://github.com/tanakaisworking/rootlore-releases/releases/download/v0.0.8/Rootlore.app.tar.gz"
     }
   }
 }
