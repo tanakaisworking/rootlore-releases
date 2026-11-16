@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "platforms": {
-    "macos-aarch64": { "url": "https://github.com/tanakaisworking/rootlore/releases/download/cli-v0.2.0/rootlore-macos-aarch64", "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdE1jbkR2L0R6QjAxNHNKN3oxRTdIMDVHTFIxOWxrZnZRS0FuWXhnOTY2N3pGNUNOL0RnOTl2TlEweEN0R0MreUNpZ3pZbUdGM1dwTnZNSDk3U0VYM2JEcFdDT0MvUmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODUwOTI5CWZpbGU6cm9vdGxvcmUtbWFjb3MtYWFyY2g2NAoyZXo0YnA0YXdpaTQ0Q1d5STA1K21oZVZ0ZjNnVVg4K2hEM3ZoVVhad1ExMzF2WEYyUUVLRkdxYzh4MHp6NXpMcEl1TmsxbSsyNmpDaHl0dFF3YlhCdz09Cg==" }
+    "macos-aarch64": { "url": "https://github.com/tanakaisworking/rootlore/releases/download/cli-v0.2.1/rootlore-macos-aarch64", "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdE1jbkR2L0R6QnlvZzFRNW1FbFphblo1SThJOVZWS0xvQTdYcjNGTk1EcnFBNVpmZ3hmMkFvL3JlTldXMllMckRhOE5iTm1YTU9tekxWTm9Wa2lFY1hPcHZKalBnc2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU0MDcxCWZpbGU6cm9vdGxvcmUtbWFjb3MtYWFyY2g2NApMU1hGUWNpVEZUUUlNWWM0aS8yL3RtN3ErN3B0NDA3T0gyUEp5YnVxYSszOXk4UWNIZlVFS2pLdGpJM29aaHJLUHRjQWdpRktCT3p5QzhzYkg4anpEdz09Cg==" }
   }
 }

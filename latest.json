@@ -1,11 +1,11 @@
 {
-  "version": "0.0.8",
-  "notes": "rootlore コマンドをアプリに入れました。アプリを起動すると ~/.local/bin/rootlore から使えるようになり（そこにほかの rootlore がないとき）、アプリの更新で一緒に新しくなります。ノートを開いたときの読むだけの表示で、先頭の見出しの ## とフロントマターの --- を出さないようにしました。",
-  "pub_date": "2026-11-16T17:43:49Z",
+  "version": "0.0.9",
+  "notes": "Check for Updates… moved to the Rootlore menu, under About Rootlore. Links that open a new window, such as GitHub issues, now open in your default browser. Updates now come from the releases of tanakaisworking/rootlore.\n\n「アップデートを確認…」を Rootlore メニューの「Rootlore について」の下に移しました。GitHub の Issue など新しいウィンドウで開くリンクを、いつものブラウザで開くようにしました。更新の配布場所を tanakaisworking/rootlore のリリースに移しました。",
+  "pub_date": "2026-11-16T18:34:54Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdE1jbkR2L0R6Qi9iMWRPTzBlV2xBVVgyMHBza2dFem00Y2plZktVVlljK1NZOFlWRC9zTkJOa3JuUVR3WnoxTGF6V1dFb0FHRHAxdVk1R2RhL0lYeTFLUW1IbFd1akFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODUwOTI0CWZpbGU6Um9vdGxvcmUuYXBwLnRhci5negpWWTRRTGpTNnZHOStnZkg0dmF0SGhiSXF2MWV6Qkl0U1ZUdHlrelBBUi81YjNWeCs3Tk1uamhEcktKeE9ZUkZQL1N5MTZ4c24vaWpTSkx6emtsbTFEZz09Cg==",
-      "url": "https://github.com/tanakaisworking/rootlore/releases/download/v0.0.8/Rootlore.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdE1jbkR2L0R6QngxWkUzSXJXYVlMZjA1K3IrdlNiN3hYUjdGVjJYckhISG53V1hlU2xDV00zNkl3Q2lZRzNSKzhGWnhlTzZoUlA3QUZwTTIvb0RpYm5HdUVpVWVTeUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU0MDYyCWZpbGU6Um9vdGxvcmUuYXBwLnRhci5negpQNlg1TnBQQWFFQnJRbkErSG8wZUNOS1Q1aGRaNjNlRGFzbS9pU3p0TDUrWEZtVC9ORU5kZ2dyTDNFbWVLem50aGpPOS9PWGhKblh6UlRkYVJmbzZEUT09Cg==",
+      "url": "https://github.com/tanakaisworking/rootlore/releases/download/v0.0.9/Rootlore.app.tar.gz"
     }
   }
 }
